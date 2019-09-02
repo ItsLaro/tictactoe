@@ -1,6 +1,6 @@
 # Tictactoe
  
-A Tic Tac Toe program that runs on a console. <sub><sup>...Another one in the vast sea of noob tictactoe programs.</sup></sub>
+A Tic Tac Toe program that runs on a console. <sub><sup>...Another one in the vast sea of <strike> noob</strike> tictactoe programs.</sup></sub>
    
 ## How to play
 
