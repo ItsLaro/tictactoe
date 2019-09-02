@@ -9,7 +9,7 @@ After prompting which player will play first, the chosen player must choose the 
 
 ### The Board
 
-![the board](https://imgur.com/a/1ec9K3W)
+![the board](https://i.imgur.com/hRfhtcv.jpg)
 
 ### Ex: 
 
@@ -17,7 +17,7 @@ If Player 1 inputs R: 3, C: 2
  
 The following cell will be marked:
 
-![3,2 on the board](https://imgur.com/a/A98MMSg)
+![3,2 on the board](https://i.imgur.com/cwx6Kbk.jpg)
 
 ## How to Win (or at least not lose) 
 
